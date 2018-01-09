@@ -9,6 +9,7 @@ public class MyCalc {
 
 	
 	public int add(int input1,int input2) {
+		
 		int result = input1+input2;
 		return result;
 	}
