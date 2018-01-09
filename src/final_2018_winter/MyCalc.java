@@ -13,5 +13,6 @@ public class MyCalc {
 		
 		int result = input1+input2;
 		return result;
+		
 	}
 }
